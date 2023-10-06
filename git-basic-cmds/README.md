@@ -1,8 +1,8 @@
 # Git basic commands
 
 **git init:** Initializes a new Git repository in the current directory.  
-example: Initialize a new Git repository in the current directory
-**git init**
+example: Initialize a new Git repository in the current directory  
+**# git init**
 
 **git clone:** Creates a copy of a remote Git repository on your local machine. It's used to download a repository for the first time.  
 **git add:** Stages changes for commit. It tells Git which files you want to include in the next commit.  
