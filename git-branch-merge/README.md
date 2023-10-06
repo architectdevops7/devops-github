@@ -3,22 +3,22 @@
 **Branch Creation:** In Git, a branch is a separate line of development. You can create branches to work on new features, bug fixes, or experiments without affecting the main codebase.  
 example: **# git branch feature-branch**  
 
-Branch Switching: You can switch between branches to work on different parts of your project.  
+**Branch Switching:** You can switch between branches to work on different parts of your project.  
 example: **# git checkout feature-branch** 
 
-Branch Listing: To see all branches in your repository:  
+**Branch Listing:** To see all branches in your repository:  
 example: **# git branch**    
 
-Branch Deletion: You can delete branches that are no longer needed.  
+**Branch Deletion:** You can delete branches that are no longer needed.  
 example: **# git branch -d feature-branch**  
 
 # Git Merging commands:  
 
-Merging Branches: Merging combines changes from one branch into another. For example, merging a feature branch into the main branch:  
+**Merging Branches:** Merging combines changes from one branch into another. For example, merging a feature branch into the main branch:  
 example:  **# git merge feature-branch**    
 
 # Git Workflow Strategies#  
-Feature Branch Workflow: Create a new branch for each new feature or bug fix. Merge these branches back into the main branch when complete.
+**Feature Branch Workflow:** Create a new branch for each new feature or bug fix. Merge these branches back into the main branch when complete.
 
 **Git Flow Workflow:** This is a branching model that defines specific branch names and their purposes, such as "feature," "release," and "hotfix" branches. It provides a structured approach to project development.  
 
